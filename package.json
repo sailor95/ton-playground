@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@orbs-network/ton-access": "^2.3.0",
     "dotenv": "^16.0.3",
     "ton": "^13.4.1",
     "ton-core": "^0.48.0",
