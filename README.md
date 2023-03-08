@@ -1,5 +1,7 @@
 # Ton Playground
 
+The Open Network (TON) coding playground.
+
 ## Tutorials
 
 ### 1
